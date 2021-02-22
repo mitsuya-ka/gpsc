@@ -1,2 +1,3 @@
 # gpsc
-PowerShell Scripts:Get-Process | Sort CPU
+## PowerShell Script
+* Get-Process | Sort CPU
